@@ -4,7 +4,7 @@ let mensaje = "Hello World"
 // Ej 1//
 alert ("Hello Kittie") 
 
-// Ej 2//
+// Ej 2. //
 
 
 document.write  (mensaje)
